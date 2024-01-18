@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cpf: MyString
+  integer: MyString
+  nome_completo: MyString
+  varchar: MyString
+  99: MyString
+  email: MyString
+  varchar: MyString
+  50: MyString
+  nome_usuario: MyString
+  varchar: MyString
+  20: MyString
+  tipo_usuario: MyString
+  char: MyString
+  5: MyString
+
+two:
+  cpf: MyString
+  integer: MyString
+  nome_completo: MyString
+  varchar: MyString
+  99: MyString
+  email: MyString
+  varchar: MyString
+  50: MyString
+  nome_usuario: MyString
+  varchar: MyString
+  20: MyString
+  tipo_usuario: MyString
+  char: MyString
+  5: MyString
